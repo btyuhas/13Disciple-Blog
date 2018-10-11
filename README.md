@@ -2,4 +2,4 @@
 ==================================================
 [How MOE Works](https://www.13disciple.stream/how-moe-work.html)
 ----------------------------------------------------------------
-..* MOE-simulation.R
+* MOE-simulation.R
